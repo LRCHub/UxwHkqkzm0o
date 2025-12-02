@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Summering",
+  "base_artist": "じん",
+  "createdAt": "2025-12-02T13:33:30.508888Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Summering",
+      "artist": "Jin",
+      "has_synced": false,
+      "path": "select/01_Summering_Jin.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Summering",
+      "artist": "Jin",
+      "has_synced": false,
+      "path": "select/pl_01_Summering_Jin.txt"
+    }
+  ]
+}
